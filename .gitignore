@@ -5,6 +5,7 @@
 *.exe
 *.exe~
 *.dll
+*.h
 *.so
 *.dylib
 
@@ -23,3 +24,6 @@ go.work.sum
 
 # env file
 .env
+
+# All bin directories
+*/bin/
