@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "kGwTjxgkBnVXMDiScBWqOFKNzemiyRrW8h3sGE5wjJA7odKeUNa5qwNZyCutOeq5X38Jz1DFjqQfnH+3Moi2Kw==",
+  "dgSpecHash": "j0/olRqm99D9FV2vcMAxJWOAzVk9tJqpRkgP5l9a8QV/bl0RTEgFLxrGIDAm7Vp75tkIHfY14eCwU3Zgr1Vxyg==",
   "success": true,
   "projectFilePath": "/home/goncalo/MECT/thesis_poc/grpc-dll/cmd_app/cmd_app.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/goncalo/.nuget/packages/microsoft.netcore.app.runtime.win-x64/8.0.10/microsoft.netcore.app.runtime.win-x64.8.0.10.nupkg.sha512",
+    "/home/goncalo/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/8.0.10/microsoft.aspnetcore.app.runtime.win-x64.8.0.10.nupkg.sha512",
+    "/home/goncalo/.nuget/packages/microsoft.netcore.app.host.win-x64/8.0.10/microsoft.netcore.app.host.win-x64.8.0.10.nupkg.sha512"
+  ],
   "logs": []
 }
